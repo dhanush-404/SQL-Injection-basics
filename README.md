@@ -1,4 +1,4 @@
-# Task 8 – SQL Injection (DVWA using Burp Suite & SQLMap)
+# SQL Injection (DVWA using Burp Suite & SQLMap)
 ## Objective
 
 To identify and exploit SQL Injection vulnerability in DVWA using Burp Suite and SQLMap.
